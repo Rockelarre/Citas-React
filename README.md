@@ -1,3 +1,5 @@
 # citas-react
 
-Web app creada con React - Vite - Tailwind CSS 
+Web app para la administración de pacientes de una clínica veterinaria.
+
+Creada con React - Vite - Tailwind CSS 
